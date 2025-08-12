@@ -4,8 +4,8 @@ HI ! I'm Nurdan, Frontend Developer, it's my profile.
 🛠️ Technology stack:
 <p align="left">
   <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000" height="30" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="30" />
+  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF" height="30" />
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-Pydantic-2D3748?style=flat&logo=pydantic&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat&logo=sqlalchemy&logoColor=white" height="30" />
