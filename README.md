@@ -10,7 +10,7 @@ HI ! I'm Nurdan, Frontend Developer, it's my profile.
   <img src="https://img.shields.io/badge/node.js-339933?logo=Node.js&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-grey?logo=tailwind-css&logoColor=38B2AC" height="30" />
-  <img src="https://img.shields.io/badge/-Ant%20Design-333333?logoColor=0170FE" height="30" />
+  <img src="https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=0170FE" height="30" />
   <img src="https://shields.io/badge/chakra--ui-black?logo=chakraui" height="30" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/-TelegramAPI-2CA5E0?style=flat&logo=Telegram&logoColor=white" height="30" />  
