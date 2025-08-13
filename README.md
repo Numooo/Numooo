@@ -1,4 +1,4 @@
-# Self
+# Nurdan
 HI ! I'm Nurdan, Frontend Developer, it's my profile.
 
 🛠️ Technology stack:
