@@ -6,6 +6,7 @@ HI ! I'm Nurdan, Frontend Developer, it's my profile.
   <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000" height="30" />
   <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF" height="30" />
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/node.js-339933?logo=Node.js&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white" height="30" />
